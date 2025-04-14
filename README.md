@@ -1,2 +1,1 @@
-I’m Ricardo!
-Here is my coding mess...
+Love creating fun and challenging projects. C++ enjoyer. Doodling on my free time.
